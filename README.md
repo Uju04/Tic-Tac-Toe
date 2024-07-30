@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-#Code in this order
+# Code in this order
 1. imports taken by Adagboyi Israel
 2. Class definition and fields taken by Ghata Gideon
 3. Constructor taken by Ike Zara
